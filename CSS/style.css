@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Alegreya|Amatic+SC|Charmonman|Crimson+Text|Domine|Lato|Maven+Pro|Merriweather|Montserrat|Noto+Serif|Noto+Serif+SC|Patua+One|Slabo+27px");
+
+@import url("components/container.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+@import url("components/cardbis.css");
+
+body {
+	font-family: Lato;
+	font-size: 25px;
+	margin: 0px;
+	line-height: 1.5;
+	text-align: justify;
+}
+
+h1, h2, h3, h4 {
+	font-family:Noto, sans-serif;
+	font-weight: bold; 
+
+}
+
+a {
+	text-decoration: none;
+	}
